@@ -9,6 +9,27 @@
         }
     },
     "plugins":[
-        "new-flowchart"
-    ]
+        "new-flowchart",
+        "back-to-top-button",
+        "code",
+        "-expandable-chapters",
+        "advanced-emoji",
+        "splitter",
+        "-share",
+        "sharing-plus",
+        "tbfed-pagefooter",
+        "klipse",
+        "popup",
+        "-chapter-fold"
+    ],
+    "pluginsConfig":{
+        "sharing":{
+            "all":["qq","qzone"],
+            "qq":true,
+            "qzone":true
+        },
+        "tbfed-pagefooter":{
+            "copyright":"Copyright &copy mowtwo.cn 2020"
+        }
+    }
 }

@@ -10,5 +10,6 @@
     * [HTML5技术与应用](Eleven week/HTML5.md)
     * [单片机](Eleven week/SCM.md)
     * [作业 8523应用实验1](Eleven week/work1.md)
-
-
+* [第十二周](Twelve week/README.md)
+    * [操作系统](Twelve week/OS.md)
+    * [计算机英语](Twelve week/PCEglish.md)
