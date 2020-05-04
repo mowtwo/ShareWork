@@ -1,0 +1,14 @@
+{
+    "title":"作业扶贫计划",
+    "author":"Mowtwo",
+    "description":"Mowtwo专门用来保存每周作业的地方",
+    "language":"zh-hans",
+    "links":{
+        "sidebar":{
+            "Github":"https://github.com/mowtwo/ShareWork"
+        }
+    },
+    "plugins":[
+        "new-flowchart"
+    ]
+}

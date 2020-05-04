@@ -8,5 +8,5 @@
     * [Web](Eleven week/Web.md)
     * [计算机接口课程设计](Eleven week/PCID.md)
     * [HTML5技术与应用](Eleven week/HTML5.md)
-
+    * [单片机](Eleven week/SCM.md)
 
