@@ -5,7 +5,8 @@
     "language":"zh-hans",
     "links":{
         "sidebar":{
-            "Github":"https://github.com/mowtwo/ShareWork"
+            "Github":"https://github.com/mowtwo/ShareWork",
+            "梦幻联动-软工班作业":"http://task.starktech.net/"
         }
     },
     "plugins":[
