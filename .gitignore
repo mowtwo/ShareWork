@@ -15,5 +15,8 @@ _book
 *.mobi
 *.pdf
 
+# nodejs
+pacage-lock.json
+
 # mac 资源目录
 .DS_Store
