@@ -21,7 +21,8 @@
         "tbfed-pagefooter",
         "klipse",
         "popup",
-        "-chapter-fold"
+        "-chapter-fold",
+        "local-video"
     ],
     "pluginsConfig":{
         "sharing":{

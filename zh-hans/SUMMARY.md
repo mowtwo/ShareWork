@@ -15,3 +15,4 @@
     * [计算机英语](Twelve week/PCEglish.md)
 * [实验性功能开发](Test/README.md)
     * [可执行代码页面](Test/eval-test.md)
+    * [视频播放](Test/video.md)
