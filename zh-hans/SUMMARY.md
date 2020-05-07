@@ -13,6 +13,8 @@
 * [第十二周](Twelve week/README.md)
     * [操作系统](Twelve week/OS.md)
     * [计算机英语](Twelve week/PCEglish.md)
+    * [H5案例2](Twelve week/H5-xyxxh.md)
+    * [H5案例1](Twelve week/HTML5.md)
 * [实验性功能开发](Test/README.md)
     * [可执行代码页面](Test/eval-test.md)
     * [视频播放](Test/video.md)
